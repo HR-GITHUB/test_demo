@@ -19,7 +19,7 @@ modules:
         name: vpndemo-uaa-key
   parameters:
     content:
-      instance:
+      subaccount:
         destinations:
         - Name: vpndemo_repo_host
           ServiceInstanceName: vpndemo-html5-srv
