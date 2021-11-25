@@ -14,7 +14,7 @@
 <Column><Label text="Customer Name"/></Column>
 <Column><Label text="City"/></Column>
 <Column><Label text="Organization"/></Column>
-<Column><Label text="Age"/></Column>
+<Column><Label text="Age of a client"/></Column>
 </columns>
 <ColumnListItem>
 <Text text="{DataModel>CUSTOMER_NAME}"/>
