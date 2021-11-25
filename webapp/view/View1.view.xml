@@ -15,8 +15,6 @@
 <Column><Label text="City"/></Column>
 <Column><Label text="Organization"/></Column>
 <Column><Label text="Age"/></Column>
-<Column><Label text="Country"/></Column>
-<Column><Label text="State"/></Column>
 </columns>
 <ColumnListItem>
 <Text text="{DataModel>CUSTOMER_NAME}"/>
